@@ -4,7 +4,7 @@ Audio Splitter is a Python application that allows you to split audio files into
 
 ## Installation
 
-You can download the latest version of the installer for Windows from the [Releases](https://github.com/justinjohn0306/Audio-Splitter/releases) tab. Choose the appropriate installer file based on your system architecture (32-bit or 64-bit).
+You can download the latest version of the installer for Windows from the [Releases](https://github.com/justinjohn0306/Audio-Splitter/releases) tab.
 
 Once the installer file is downloaded, simply double-click on it to start the installation process. Follow the on-screen instructions to complete the installation.
 
